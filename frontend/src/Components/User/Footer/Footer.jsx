@@ -1,7 +1,4 @@
 
-
-
-
 import React from 'react';
 import { Avatar, Box, Chip, Container, Divider, Grid, Stack, styled, Typography } from '@mui/material';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
@@ -92,7 +89,7 @@ const Footer = () => {
                                     <CallIcon />
                                 </Avatar>
                                 <a className='text-style' href="tel:01680xxx86">
-                                +977-9862164447
+                                +254-794521982
                                 </a>
                             </Stack >
 
